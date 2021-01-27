@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  NewsiOS
 //
-//  Created by MAC on 2021/1/25.
+//  Created by Karen Madoyan on 2021/1/25.
 //
 
 import UIKit
